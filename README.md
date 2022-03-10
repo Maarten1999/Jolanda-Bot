@@ -1,7 +1,7 @@
 # tgbot❤
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Rose's+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
-<center><img src="https://telegra.ph/file/6374be06fca3f8e59e6a2.jpg"></center>
+<center><img src="http://pm1.narvii.com/6532/20eb6996f1e908f6f012f38e2d8cf96686827d79_00.jpg"></center>
 <br>
 <center><a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
