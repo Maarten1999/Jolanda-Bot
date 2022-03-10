@@ -18,11 +18,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-
 Hi, my name is Jolanda, an admin bot like Rose
 I have built the python-telegram-bot library in python3. I am totally open source.
 Press /help to know about available commands.
-
 """
 
 HELP_STRINGS = """
