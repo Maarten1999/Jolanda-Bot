@@ -17,7 +17,7 @@ def translate(bot: Bot, update: Update):
         msg = update.effective_message.reply_to_message
 
         params = dict(
-            lang="US",
+            lang="NL",
             clientVersion="2.0",
             apiKey=API_KEY,
             text=msg.text
